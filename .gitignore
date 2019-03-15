@@ -40,7 +40,6 @@
 *.opensdf
 *.sdf
 *.pdb
-*.pch
 *.VC.db
 *.VC.opendb
 
