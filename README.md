@@ -9,6 +9,6 @@ Study project in UE4 for learning how UE4 networking works. Simple clone of the 
 1. Start dedicated server: run PackageBuild/RumAgarServer.bat
 2. Start client. When the client is up you can connect to a server by specifying its ip-address. If the server is running on the same machine with the client, you can leave default `127.0.0.1`.
 3. Client controls:
-  Move your avatar with a mouse position
-  Tab - open leaderboard
-  Esc - open menu
+    * Move your avatar with a mouse position
+    * Tab - open leaderboard 
+    * Esc - open menu
