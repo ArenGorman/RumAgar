@@ -1,5 +1,9 @@
 # RumAgar
 Study project in UE4 for learning how UE4 networking works. Simple clone of the famous agar.io game.
+<div align="center">
+    <img src="/Screenshots/scr_01.png" width="450px"</img> 
+    <img src="/Screenshots/scr_02.png" width="450px"</img> 
+</div>
 
 ## How to play
 1. Start dedicated server: run PackageBuild/RumAgarServer.bat
