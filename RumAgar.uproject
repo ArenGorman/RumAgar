@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{FA5454C4-4E8B-F2D7-3762-35A8D8615E21}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RumAgar",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
+	]
+}
